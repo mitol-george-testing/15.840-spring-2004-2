@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Marketing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "60396c87-ffff-e51d-c564-ae13deaff94f",
+      "447050f4-2b4b-a810-ca3b-742ab60014b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Seminar in Marketing: Marketing Management",
+  "course_description": "The purpose of 15.840 is to:\n\n*   Introduce key marketing ideas and phenomena.\n*   Develop students' skills in marketing analysis and planning.\n*   Provide a forum (both written and oral) for presenting and defending recommendations and critically examining and discussing those of others.\u00a0An emphasis is placed\u00a0on theory and practice that draws on market research, competitive analysis, and marketing science.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.840",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
